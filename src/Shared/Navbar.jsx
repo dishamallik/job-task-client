@@ -20,7 +20,7 @@ const Navbar = () => {
         </a>
       </div>
 
-      <div className="navbar-center hidden lg:flex"></div> {/* Keeping center empty to use space efficiently */}
+      <div className="navbar-center hidden lg:flex"></div> 
 
       <div className="navbar-end flex items-center gap-3">
         <ul className="menu menu-horizontal px-1 text-lg font-bold hidden lg:flex">

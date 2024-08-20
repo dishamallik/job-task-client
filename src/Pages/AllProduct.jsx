@@ -14,7 +14,7 @@ const AllProduct = () => {
     const itemsPerPage = 6;
 
     useEffect(() => {
-        fetch(`http://localhost:5000/marts`)
+        fetch(`https://job-task-server-weld.vercel.app/marts`)
             .then(res => res.json())
             .then(data => {
                 setMarts(data);
