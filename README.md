@@ -7,7 +7,7 @@ eMart is a modern e-commerce platform that offers a wide variety of products. Th
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/dishamallik/job-task-client
+   git clone https://github.com/dishamallik/job-task-client.git
    cd emart-frontend
 
 
